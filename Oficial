@@ -240,9 +240,13 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34648
 
 http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37947
 
-#EXTINF: -1,SPORT tv +
+#EXTINF: -1,SKY SPORT F1
 
-http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37961
+http://hplay.xyz:80/rtrboofc/pi519pvU9R/34733
+
+#EXTINF: -1,SKY MOTOGP
+
+http://hplay.xyz:80/rtrboofc/pi519pvU9R/34730
 
 #EXTINF: -1,SPORT tv 1
 
@@ -288,9 +292,21 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34735
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/304180
 
+#EXTINF: -1,GOLF CHANNEL
+
+http://hplay.xyz:80/rtrboofc/pi519pvU9R/34696
+
 #EXTINF: -1,Cartoon networks lat
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/302621
+
+#EXTINF: -1,GOL TV ECU
+
+http://hplay.xyz:80/rtrboofc/pi519pvU9R/34693
+
+#EXTIN: -1,NFL NETWORK
+
+http://hplay.xyz:80/rtrboofc/pi519pvU9R/34705
 
 #EXTINF: -1,A&E
 
