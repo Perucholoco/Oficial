@@ -52,6 +52,10 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34743
 
 http://elmonkey.us:25461/santana/1234/28
 
+#EXTINF: -1,BEIN ING
+
+http://hplay.xyz:80/rtrboofc/pi519pvU9R/43662
+
 #EXTINF: -1,BEIN EXTRA Ñ
 
 http://elmonkey.us:25461/santana/1234/117059
@@ -160,13 +164,21 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/39089
 
 http://live.budtvlight.com:25461/Luna001/18dabf00/35478
 
-#EXTINF: -1,FOX SPORT 
+#EXTINF: -1,FOX SPORT SA
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34640
 
-#EXTINF: -1,FOX SPORT 2
+#EXTINF: -1,FOX SPORT USA
+
+http://hplay.xyz:80/rtrboofc/pi519pvU9R/312668
+
+#EXTINF: -1,FOX SPORT 2 SA
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34643
+
+#EXTINF: -1,FOX SPORT 2 USA
+
+http://hplay.xyz:80/rtrboofc/pi519pvU9R/312667
 
 #EXTINF: -1,TNT SPORT ARG
 
@@ -263,6 +275,10 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34646
 #EXTINF: -1,FOX sport 2 us
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34650
+
+#EXTINF: -1,ECDF EC
+
+http://hplay.xyz:80/rtrboofc/pi519pvU9R/304386
 
 #EXTINF: -1,Cartoon networks italia
 
