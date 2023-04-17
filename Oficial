@@ -348,8 +348,42 @@ https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3
 
 http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
-#EXTINF: -1,
+#EXTINF: -1,MOTOR VISION TV
 
-#EXTINF: -1,
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60817e1aa6997500072d0d6d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=35fc51b0-e986-11eb-a0af-c3b401f46211&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ede55dfe-45a7-4aa8-a283-7b8008be8d2e
 
-#EXTINF: -1,
+#EXTINF: -1,SKI TV
+
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SynapseTV/193.m3u8
+
+#EXTINF: -1,SPORT EN FRANCE
+
+https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
+
+#EXTINF: -1,SPORT TV PLUS
+
+https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
+
+#EXTINF: -1,SUPER TENNIS
+
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+
+#EXTINF: -1,UNBEATEN
+
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF: -1,WORL POKER TOUR
+
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+
+#EXTINF: -1,YAS
+
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+
+#EXTINF: -1,SPORT RU
+
+https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
+
+#EXTINF: -1,FTF SPORT
+
+https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
