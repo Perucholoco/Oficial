@@ -344,7 +344,9 @@ https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m
 
 https://dev.aftermind.xyz/edge-hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqu
 
-#EXTINF: -1,
+#EXTINF: -1,CANAL MOTOR
+
+http://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
 #EXTINF: -1,
 
