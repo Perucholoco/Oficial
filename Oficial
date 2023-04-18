@@ -92,6 +92,10 @@ http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/40261
 
 http://elmonkey.us:25461/santana/1234/91069
 
+#EXTINF: -1,ESON 4 SA
+
+http://190.27.253.211:8000/play/a08e/index.m3u8
+
 #EXTINF: -1,ESPN FULL HD 
 
 http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37845
@@ -100,11 +104,15 @@ http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37845
 
 http://elmonkey.us:25461/santana/1234/91048
 
+#EXTINF: -1,ESPN MX OPC2
+
+http://45.228.232.204:16000/play/a07r/index.m3u8
+
 #EXTINF: -1,ESPN 2 MX
 
 http://elmonkey.us:25461/santana/1234/91049
 
-#EXTINF: -1,ESPN 2 MX OP2
+#EXTINF: -1,ESPN 2 MX OPC2
 
 http://bgtv.site/403/tv30.php?c=MTYtNzA4MQ==&token=pioioiylklkhkuacv&f=.m3u8
 
@@ -183,6 +191,10 @@ http://bgtv.site/403/tv30.php?c=OTctNzA4Mg==&token=pioioiylklkhkuacv&f=.m3u8
 #EXTINF: -1,FOX SPORT 2 SA
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34643
+
+#EXTINF: -1,FOX SPORT 2 OPC2
+
+http://190.27.253.211:8000/play/a07q/index.m3u8
 
 #EXTINF: -1,FOX SPORT 2 USA
 
