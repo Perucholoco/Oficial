@@ -104,6 +104,10 @@ http://elmonkey.us:25461/santana/1234/91048
 
 http://elmonkey.us:25461/santana/1234/91049
 
+#EXTINF: -1,ESPN 2 MX OP2
+
+http://bgtv.site/403/tv30.php?c=MTYtNzA4MQ==&token=pioioiylklkhkuacv&f=.m3u8
+
 #EXTINF: -1,ESPN 3 MX
 
 http://elmonkey.us:25461/santana/1234/91050
@@ -168,9 +172,13 @@ http://live.budtvlight.com:25461/Luna001/18dabf00/35478
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34640
 
-#EXTINF: -1,FOX SPORT USA
+#EXTINF: -1,FOX SPORT 1 USA
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/312668
+
+#EXTINF: -1,FOX SPORT 1 USA OP2
+
+http://bgtv.site/403/tv30.php?c=OTctNzA4Mg==&token=pioioiylklkhkuacv&f=.m3u8
 
 #EXTINF: -1,FOX SPORT 2 SA
 
