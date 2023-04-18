@@ -236,9 +236,17 @@ http://premiumultra.xyz:8080/restreambestlive/w4e7kFKr29Ya/37926
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34714
 
+#EXTINF: -1,FIGHT NETWORK 
+
+http://bgtv.site/403/tv30.php?c=NTMtNzA4Mg==&token=pioioiylklkhkuacv&f=.m3u8
+
 #EXTINF: -1,NBA TV
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34712
+
+#EXTINF: -1,NBA TV OPC2
+
+http://bgtv.site/403/tv30.php?c=MTAzLTcwODI=&token=pioioiylklkhkuacv&f=.m3u8
 
 #EXTINF: -1,ESPN premium 
 
@@ -287,6 +295,10 @@ http://hplay.xyz:80/rtrboofc/pi519pvU9R/34646
 #EXTINF: -1,FOX sport 2 us
 
 http://hplay.xyz:80/rtrboofc/pi519pvU9R/34650
+
+#EXTINF: -1,FOX SPORT 2 US OPC2
+
+http://bgtv.site/403/tv30.php?c=OTgtNzA4Mg==&token=pioioiylklkhkuacv&f=.m3u8
 
 #EXTINF: -1,ECDF EC
 
